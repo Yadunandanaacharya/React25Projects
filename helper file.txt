@@ -1,0 +1,20 @@
+*. project start coding
+*. 
+
+
+*. project start coding
+* use below command to avoid git error while creating react app
+npx create-react-app my-app --no-git
+
+once run above command run this command to go inside that folder my-app
+cd my-app
+
+with this it goes my-app directory
+
+next you've to run 
+npm start
+
+I made mistake: in directory behind my-app i run "npm start" it gave error
+PS D:\ABBCodesDon't add other repos here\MyGitDontAddAnyFile\React25Projects> npm start                  
+npm ERR! code ENOENT
+
